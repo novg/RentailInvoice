@@ -34,10 +34,17 @@ namespace RentailInvoice.DataWriter
 
         }
 
+        public void Save(string filePath)
+        {
+            //throw new NotImplementedException();
+        }
+
         public void Write()
         {
-            throw new NotImplementedException("From Payment");
+            //throw new NotImplementedException("From Payment");
         }
+
+        
 
 
 

@@ -8,5 +8,6 @@ namespace RentailInvoice.Interfaces
     public interface IDataWriter
     {
         void Write();
+        void Save(string filePath);
     }
 }

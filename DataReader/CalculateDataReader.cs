@@ -15,7 +15,10 @@ namespace RentailInvoice.DataReader
 
         public IList<InitialData> Read()
         {
-            throw new System.NotImplementedException("From DataReader");
+            //throw new System.NotImplementedException("From DataReader");
+            //IList<InitialData> initialDatas = new Li
+            //InitialData initialData = new InitialData();
+            return new List<InitialData>();
         }
     }
 }
